@@ -20,9 +20,13 @@ samples, guidance on mobile development, and a full API reference.
 <h3 align="center">E-Commerce App Video </h3>
 
 <div align="center">
- <video src="" type="video/mp4">
+ <video src="https://github.com/sanjuafre123/exam_e_commers/assets/148860124/b49bce10-defa-4ec1-8039-59969ce1d0d7" type="video/mp4">
 </video>
 </div>
+
+
+
+
 
 <h3 align="center"> 1.First page </h3>
 
