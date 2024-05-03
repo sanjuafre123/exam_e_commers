@@ -152,7 +152,7 @@ class _homescreenState extends State<homescreen> {
   }
 
   Container burger_method(
-      {required String name, required String image, required String price}) {
+      {required String name, required String image, required int price}) {
     return Container(
       margin: EdgeInsets.only(top: 15, left: 15),
       height: 220,
@@ -186,7 +186,7 @@ class _homescreenState extends State<homescreen> {
               Container(
                 margin: EdgeInsets.only(top: 10),
                 child: Text(
-                  price,
+                  'Rs.${price.toString()}',
                   style: TextStyle(
                       color: Colors.amber.shade900,
                       fontSize: 15,
